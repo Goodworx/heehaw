@@ -1,7 +1,7 @@
-scripture
+heehaw
 =========
 
-An innovative scripture reading and study app that works on all modern mobiles, tablets and browsers.
+An innovative reading and reference app that works on all modern mobiles, tablets and browsers.
 
 Features:
 - No connection required
